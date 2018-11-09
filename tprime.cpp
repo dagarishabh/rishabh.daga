@@ -9,5 +9,5 @@ int main()
 	cin>>a[i];
 	cin>>p;
 	cout<<"change";
-	cout<<"change2";
+	cout<<"change3";
 }
